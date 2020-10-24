@@ -33,6 +33,8 @@ The pupose of this study is to see if there is correlation between the number of
    Adjust scripts created by teammates to further fit data needs
 
    Create additional scripts for necessary for deeper analysis
+   
+   Merge data and output to csv for usage in visualizations and analysis
 
 4) VIZUALIZATION-("Final_Graph.ipynb","Flight_Correlation_Work.ipynb", ChiTest.csv, FullDataSet.csv)
 
