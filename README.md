@@ -8,6 +8,6 @@ The pupose of this study is to see if there is correlation between the number of
 ## Data Sources
 
 * COVID dataset: https://covidtracking.com/data/api
-* Flight dataset: https://aviationstack.com/documentation
+* Flight dataset: https://aviationstack.com/documentation (subscription required)
 
 ##
