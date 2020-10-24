@@ -44,7 +44,7 @@ The pupose of this study is to see if there is correlation between the number of
 
    Prove whether or not our hypothesis holds true. 
 
-Test how accurate our predictive equation is
+   Test how accurate our predictive equation is
 
 
 
